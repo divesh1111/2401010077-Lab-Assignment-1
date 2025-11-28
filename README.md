@@ -24,10 +24,12 @@ Input Validation: Ensures marks are between 0 and 100.
 
 🏗️ Class Structure
 
-1. Person Class
+1. Person Class 
+
 Contains the protected field name.
 
 2. Student Class
+
 Inherits from Person
 
 Contains:
@@ -53,6 +55,7 @@ displayDetails()
 Overridden toString()
 
 3. StudentRecordSystem (Main Class)
+
 Uses menu-driven interface to:
 
 Add students
